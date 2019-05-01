@@ -2,7 +2,7 @@ Steps to use git locally.
 
 1. created directory
 2. perform git init
-3. touch some files (e.g. git touch index.html)
+3. touch some files (e.g. 'touch index.html')
 4. add files to stage
 5. commit changes.
 
