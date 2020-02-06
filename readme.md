@@ -11,7 +11,7 @@ Steps to use git locally.
 </ol>
 </p>
 <p>
-Steps to connect local repository on my computer with Github.
+STEPS to connect local repository on my computer with Github.
 <ol>
 <li>Go to Github.com and sign in.</li>
 <li>Create a new repository on GitHub.com and perform the second option mentioned (in your terminal): 
